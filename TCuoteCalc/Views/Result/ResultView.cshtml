@@ -1,0 +1,15 @@
+﻿
+<div class="text-center">
+    <label for="rest"><strong>Su Pago Mensual Equivale A: </strong></label>
+    <input class="form-control" readonly type="text" name="rest" id="rest"></input>
+</div>
+
+@{
+    if (ViewBag.totalmonths != null)
+    {
+        <script type="text/javascript">
+            document.getElementById("rest").value = "@ViewBag.totalmonths";
+        </script>
+
+    }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCuoteCalc", "TCuoteCalc\TCuoteCalc.csproj", "{C98E0C16-DBAC-4293-8203-E8F401BB179C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98E0C16-DBAC-4293-8203-E8F401BB179C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98E0C16-DBAC-4293-8203-E8F401BB179C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98E0C16-DBAC-4293-8203-E8F401BB179C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98E0C16-DBAC-4293-8203-E8F401BB179C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184D61D3-8CB6-402B-8A81-E37323ADA1A0}
+	EndGlobalSection
+EndGlobal
